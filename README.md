@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EMitchell44
-- 👀 I’m interested in ... Python, JavaScript, data science, pentesting.
-- 🌱 I’m currently learning ... Python. JavaScript is next. From there, I'd like to build up my repertoire of attacks.
+- 👀 I’m interested in ... Python, JavaScript, web development, security.
+- 🌱 I’m currently learning ... JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
