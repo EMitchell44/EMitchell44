@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EMitchell44
 - 👀 I’m interested in ... web development, computer science.
-- 🌱 I’m currently learning ... JavaScript.
+- 🌱 I’m currently learning ... Embedded Engineering and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
